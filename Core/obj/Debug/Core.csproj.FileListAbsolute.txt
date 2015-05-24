@@ -1,0 +1,9 @@
+D:\Study\КПИ\Сети\ClientServer\Core\bin\Debug\Core.dll
+D:\Study\КПИ\Сети\ClientServer\Core\bin\Debug\Core.pdb
+D:\Study\КПИ\Сети\ClientServer\Core\bin\Debug\Files.dll
+D:\Study\КПИ\Сети\ClientServer\Core\bin\Debug\Packets.dll
+D:\Study\КПИ\Сети\ClientServer\Core\bin\Debug\Files.pdb
+D:\Study\КПИ\Сети\ClientServer\Core\bin\Debug\Packets.pdb
+D:\Study\КПИ\Сети\ClientServer\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\Study\КПИ\Сети\ClientServer\Core\obj\Debug\Core.dll
+D:\Study\КПИ\Сети\ClientServer\Core\obj\Debug\Core.pdb
