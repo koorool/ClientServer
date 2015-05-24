@@ -1,0 +1,14 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Client - Connect to server" Height="145.97" Width="291.298" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
+    <Grid>
+        <Label Content="IP address:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="28" Width="88"/>
+        <Label Content="Port:" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top" Height="28" Width="88"/>
+        <TextBox x:Name="tbIPAddress" Height="23" Margin="0,10,10,0" TextWrapping="Wrap" VerticalAlignment="Top" HorizontalAlignment="Right" Width="190" Text="127.0.0.1"/>
+        <TextBox x:Name="tbPort" Height="23" Margin="0,38,10,0" TextWrapping="Wrap" VerticalAlignment="Top" HorizontalAlignment="Right" Width="190" Text="7134"/>
+        <Button Content="Connect" HorizontalAlignment="Right" Margin="0,0,10,10" VerticalAlignment="Bottom" Width="97" Height="27" Click="Button_Click"/>
+        <Label x:Name="lMessage" Content="" HorizontalAlignment="Left" Margin="20,81,0,0" VerticalAlignment="Top" Background="White" Foreground="#FFE40909"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,5 @@
+D:\Study\КПИ\Сети\ClientServer\Packets\obj\Debug\Packets.csprojResolveAssemblyReference.cache
+D:\Study\КПИ\Сети\ClientServer\Packets\bin\Debug\Packets.dll
+D:\Study\КПИ\Сети\ClientServer\Packets\bin\Debug\Packets.pdb
+D:\Study\КПИ\Сети\ClientServer\Packets\obj\Debug\Packets.dll
+D:\Study\КПИ\Сети\ClientServer\Packets\obj\Debug\Packets.pdb

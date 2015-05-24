@@ -1,0 +1,29 @@
+c:\users\houssem dellai\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+c:\users\houssem dellai\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+c:\users\houssem dellai\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+c:\users\houssem dellai\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\ClientSocketWpfApp.csprojResolveAssemblyReference.cache
+c:\users\houssem dellai\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\houssem dellai\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\houssem dellai\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\houssem dellai\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+c:\users\houssem dellai\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+c:\users\houssem dellai\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+c:\users\houssem dellai\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\ClientSocketWpfApp.csproj.GenerateResource.Cache
+c:\users\houssem dellai\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+c:\users\houssem dellai\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Houssem Dellai\Documents\Visual Studio 2012\Projects\WpfApplication1 - Copy\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Houssem Dellai\Documents\Visual Studio 2012\Projects\WpfApplication1 - Copy\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Houssem Dellai\Documents\Visual Studio 2012\Projects\WpfApplication1 - Copy\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Houssem Dellai\Documents\Visual Studio 2012\Projects\WpfApplication1 - Copy\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Houssem Dellai\Documents\Visual Studio 2012\Projects\WpfApplication1 - Copy\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Houssem Dellai\Documents\Visual Studio 2012\Projects\WpfApplication1 - Copy\WpfApplication1\obj\Debug\ClientSocketWpfApp.csprojResolveAssemblyReference.cache
+C:\Users\Houssem Dellai\Documents\Visual Studio 2012\Projects\WpfApplication1 - Copy\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Houssem Dellai\Documents\Visual Studio 2012\Projects\WpfApplication1 - Copy\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Houssem Dellai\Documents\Visual Studio 2012\Projects\WpfApplication1 - Copy\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Houssem Dellai\Documents\Visual Studio 2012\Projects\WpfApplication1 - Copy\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Houssem Dellai\Documents\Visual Studio 2012\Projects\WpfApplication1 - Copy\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Houssem Dellai\Documents\Visual Studio 2012\Projects\WpfApplication1 - Copy\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Houssem Dellai\Documents\Visual Studio 2012\Projects\WpfApplication1 - Copy\WpfApplication1\obj\Debug\ClientSocketWpfApp.csproj.GenerateResource.Cache
+D:\Study\КПИ\Сети\ClientServer\Examples\Communication through Sockets\C#\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Study\КПИ\Сети\ClientServer\Examples\Communication through Sockets\C#\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Study\КПИ\Сети\ClientServer\Examples\Communication through Sockets\C#\WpfApplication1\obj\Debug\WpfApplication1.pdb
